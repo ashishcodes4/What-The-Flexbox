@@ -42,6 +42,14 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
   width: 33.3%;
 }
 
+.class{
+  display: none;
+  position: relative;
+  left: 40em;
+  right: 0em !important;
+  background-origin: padding-box;
+  border: 2px solid #000;
+}
 /* 
 .box3 {
   order:1;
